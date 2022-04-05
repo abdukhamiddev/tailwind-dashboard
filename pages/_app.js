@@ -3,7 +3,7 @@ import "../styles/globals.css";
 function MyApp({ Component, pageProps }) {
 	return (
 		<>
-			<div className="h-screen">
+			<div className="">
 				<Component {...pageProps} />
 			</div>
 		</>

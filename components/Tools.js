@@ -13,7 +13,7 @@ const Tools = () => {
 			</div>
 			<div className="w-full lg:w-1/2">
 				<div className="flex justify-between">
-					<div className="">
+					<div className="lg:hidden">
 						<a
 							href="#"
 							className="flex items-center justify-center w-10 h-10 bg-gray-50 rounded-xl"
