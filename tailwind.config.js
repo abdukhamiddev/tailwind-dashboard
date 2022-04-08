@@ -6,6 +6,9 @@ module.exports = {
 	theme: {
 		extend: {
 			translate: ["responsive", "group-hover", "hover", "focus"],
+			padding: {
+				"3/5": "60%",
+			},
 		},
 	},
 	plugins: [],
